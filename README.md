@@ -42,7 +42,7 @@ Pone una linea horizontal
 
 Pone un enlace
 
-[IES Salvador Gadea](https://iesgadea.es)
+'[IES Salvador Gadea](https://iesgadea.es)'
 
 ## Imagen
 
