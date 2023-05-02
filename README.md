@@ -1,7 +1,7 @@
 # jvgs
 ## Desarrollo de aplicaciones web
 
-En markdown se supeden utilizar las etiquetas H1, H2 Y H3 poniendo # 
+En markdown se supeden utilizar las etiquetas H1, H2 Y H3 poniendo `#` 
 delante de la frase (`# H1 ; ## H2 ; ### H3`). Tambien se puede marcar el texto 
 en negrita poniendo `**palabra**` y en cursiva `*palabra*`.
 
@@ -15,15 +15,14 @@ en negrita poniendo `**palabra**` y en cursiva `*palabra*`.
 
 Para crear una lista ordenada:
 
-1.Elemento1
-2.Elemento2
-3.Elemento3
+1. Elemento1
+2. Elemento2
+3. Elemento3
 
 {
-1.Elemento1
-2.Elemento2
-3.Elemento3
-
+1. Elemento1
+2. Elemento2
+3. Elemento3
 }
 
 ## Lista desordenada 
