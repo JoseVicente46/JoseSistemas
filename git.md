@@ -2,8 +2,9 @@
 
 ## Configurar usuario y correo: 
 
-`git config --global user.name "[name]"`
-`git config --global user.email "[email address]"`
+```git config --global user.name "[name]"
+   git config --global user.email "[email address]"
+```
 
 ## Crear repositorio
 
