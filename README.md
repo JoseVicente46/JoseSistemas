@@ -19,11 +19,11 @@ Para crear una lista ordenada:
 2. Elemento2
 3. Elemento3
 
-{
+```
 1. Elemento1
 2. Elemento2
 3. Elemento3
-}
+```
 
 ## Lista desordenada 
 
@@ -34,17 +34,17 @@ Para crear una lista desprdenada:
 - Elemento3
 
 
-{
+```
 - Elemento1
 - Elemento2
 - Elemento3
-}
+```
 
 ## Codi
 
-Para poner texto sin formato
+Para poner escapar simbolos como el `#` 
 
-`Codi`
+Codi
 `codi`
 
 
@@ -81,19 +81,19 @@ Pone una tabla
 | Header | Title |
 | Paragraph | Text |
 
-{
+```
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-}
+```
 
 ## Bloque de codigo de mas de una linea
 
 Añade un bloque de codigo:
 
-{ "firstName": "John", "lastName": "Smith", "age": 25 }
-
+``` ```texto ``` 
+```
 ## Nota pie de paguina
 
 Pone una notacion al pie de la pagina
@@ -102,11 +102,11 @@ Esta es una frase amb un nota al peu. [^1]
 
 [^1]: Esta és la nota al peu.
 
-{
+```
 Esta es una frase amb un nota al peu. [^1]
 
 [^1]: Esta és la nota al peu.
-}
+```
 
 ## Lista de tareas 
 
@@ -116,11 +116,11 @@ Añade una lista de tareas
 - [ ] Estudiar GIT
 - [ ] Coneixer Markdown
 
-{
+```
 - [x] Estudiar Python
 - [ ] Estudiar GIT
 - [ ] Coneixer Markdown
-}
+```
 
 ## Emoji
 
