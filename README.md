@@ -92,8 +92,8 @@ Pone una tabla
 
 Añade un bloque de codigo:
 
-``` ```texto ``` 
-```
+` ```texto``` `
+
 ## Nota pie de paguina
 
 Pone una notacion al pie de la pagina
